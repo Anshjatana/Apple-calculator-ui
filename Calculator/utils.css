@@ -1,0 +1,36 @@
+.text-center{
+  text-align: center;
+}
+.bg-white{
+  background: white;
+}
+.color-black{
+  color: black;
+}
+.bg-darkgrey{
+  background: #cfcece;
+}
+.bg-black{
+  background-color:#000000 ;
+  color: white;
+}
+.flex{
+  display: flex;
+}
+.lightgrey{
+  background: #b0b0b0;
+  color: black;
+}
+.darkgrey{
+  background: #4f4f4f;
+  color: white;
+}
+.red{
+  background: #ff8a05;
+  color: white;
+}
+.black{
+  background-color: black;
+  color:white;
+  width: 20rem;
+}
